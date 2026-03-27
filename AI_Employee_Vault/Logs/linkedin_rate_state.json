@@ -1,0 +1,10 @@
+{
+  "date": "",
+  "comments_today": 0,
+  "connections_today": 0,
+  "comment_limit": 10,
+  "connection_limit": 5,
+  "account_paused": false,
+  "pause_reason": "",
+  "last_action_at": ""
+}

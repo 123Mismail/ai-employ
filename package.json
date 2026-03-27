@@ -1,0 +1,23 @@
+{
+  "name": "ai-employ",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "spec": "bash .specify/scripts/bash/create-new-feature.sh",
+    "plan": "bash .specify/scripts/bash/setup-plan.sh",
+    "tasks": "echo 'Break plan into tasks using ai/prompts/tasks.prompt.md'",
+    "implement": "echo 'Implement tasks using ai/prompts/implement.prompt.md'",
+    "vault-init": "uv run python BronzeTier/scripts/init_vault.py",
+    "watchers:start": "pm2 start ecosystem.config.js",
+    "processor": "uv run python Core/scripts/skills/vault_processor.py",
+    "email:send": "uv run python SilverTier/scripts/skills/email_action.py",
+    "audit": "uv run python GoldTier/scripts/skills/business_auditor.py",
+    "odoo": "uv run python GoldTier/scripts/skills/odoo_skill.py",
+    "social": "uv run python GoldTier/scripts/skills/social_post.py",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

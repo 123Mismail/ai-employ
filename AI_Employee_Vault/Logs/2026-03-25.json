@@ -1,0 +1,819 @@
+[
+    {
+        "timestamp": "2026-03-25T08:19:20.234429",
+        "action_type": "claim_task",
+        "details": {
+            "task": "TASK_AUTO_POST_LINKEDIN_20260325.md",
+            "is_email": false,
+            "is_whatsapp": false
+        },
+        "actor": "Gemini-Agent"
+    },
+    {
+        "timestamp": "2026-03-25T08:21:47.715002",
+        "action_type": "claim_task",
+        "details": {
+            "task": "APPROVE_POST_TASK_AUTO_POST_LINKEDIN_20260325.md",
+            "is_email": false,
+            "is_whatsapp": false
+        },
+        "actor": "Gemini-Agent"
+    },
+    {
+        "timestamp": "2026-03-25T08:21:47.735138",
+        "action_type": "claim_task",
+        "details": {
+            "task": "FILE_autonomous_test.txt_20260325082143.md",
+            "is_email": false,
+            "is_whatsapp": false
+        },
+        "actor": "Gemini-Agent"
+    },
+    {
+        "timestamp": "2026-03-25T08:21:47.751752",
+        "action_type": "claim_task",
+        "details": {
+            "task": "FILE_fully autonomus.md_20260325082144.md",
+            "is_email": false,
+            "is_whatsapp": false
+        },
+        "actor": "Gemini-Agent"
+    },
+    {
+        "timestamp": "2026-03-25T08:21:47.769358",
+        "action_type": "claim_task",
+        "details": {
+            "task": "FILE_last testing done.md_20260325082145.md",
+            "is_email": false,
+            "is_whatsapp": false
+        },
+        "actor": "Gemini-Agent"
+    },
+    {
+        "timestamp": "2026-03-25T08:21:47.786077",
+        "action_type": "claim_task",
+        "details": {
+            "task": "FILE_modular_test.txt_20260325082146.md",
+            "is_email": false,
+            "is_whatsapp": false
+        },
+        "actor": "Gemini-Agent"
+    },
+    {
+        "timestamp": "2026-03-25T08:21:49.735939",
+        "action_type": "claim_task",
+        "details": {
+            "task": "FILE_test_invoice.txt_20260325082148.md",
+            "is_email": false,
+            "is_whatsapp": false
+        },
+        "actor": "Gemini-Agent"
+    },
+    {
+        "timestamp": "2026-03-25T08:21:50.762239",
+        "action_type": "claim_task",
+        "details": {
+            "task": "FILE_test_task_002.txt_20260325082149.md",
+            "is_email": false,
+            "is_whatsapp": false
+        },
+        "actor": "Gemini-Agent"
+    },
+    {
+        "timestamp": "2026-03-25T08:21:51.793681",
+        "action_type": "claim_task",
+        "details": {
+            "task": "FILE_test_task_003.txt_20260325082150.md",
+            "is_email": false,
+            "is_whatsapp": false
+        },
+        "actor": "Gemini-Agent"
+    },
+    {
+        "timestamp": "2026-03-25T09:03:02.595769",
+        "action_type": "claim_task",
+        "details": {
+            "task": "FILE_autonomous_test.txt_20260325090255.md",
+            "is_email": false,
+            "is_whatsapp": false
+        },
+        "actor": "Gemini-Agent"
+    },
+    {
+        "timestamp": "2026-03-25T09:03:02.636036",
+        "action_type": "claim_task",
+        "details": {
+            "task": "FILE_fully autonomus.md_20260325090256.md",
+            "is_email": false,
+            "is_whatsapp": false
+        },
+        "actor": "Gemini-Agent"
+    },
+    {
+        "timestamp": "2026-03-25T09:03:02.679332",
+        "action_type": "claim_task",
+        "details": {
+            "task": "FILE_last testing done.md_20260325090257.md",
+            "is_email": false,
+            "is_whatsapp": false
+        },
+        "actor": "Gemini-Agent"
+    },
+    {
+        "timestamp": "2026-03-25T09:03:02.718599",
+        "action_type": "claim_task",
+        "details": {
+            "task": "FILE_modular_test.txt_20260325090258.md",
+            "is_email": false,
+            "is_whatsapp": false
+        },
+        "actor": "Gemini-Agent"
+    },
+    {
+        "timestamp": "2026-03-25T09:03:02.760467",
+        "action_type": "claim_task",
+        "details": {
+            "task": "FILE_second last tasks.md_20260325090259.md",
+            "is_email": false,
+            "is_whatsapp": false
+        },
+        "actor": "Gemini-Agent"
+    },
+    {
+        "timestamp": "2026-03-25T09:03:02.806968",
+        "action_type": "claim_task",
+        "details": {
+            "task": "FILE_test_invoice.txt_20260325090300.md",
+            "is_email": false,
+            "is_whatsapp": false
+        },
+        "actor": "Gemini-Agent"
+    },
+    {
+        "timestamp": "2026-03-25T09:03:02.859313",
+        "action_type": "claim_task",
+        "details": {
+            "task": "FILE_test_task_002.txt_20260325090301.md",
+            "is_email": false,
+            "is_whatsapp": false
+        },
+        "actor": "Gemini-Agent"
+    },
+    {
+        "timestamp": "2026-03-25T09:03:02.892701",
+        "action_type": "claim_task",
+        "details": {
+            "task": "FILE_test_task_003.txt_20260325090302.md",
+            "is_email": false,
+            "is_whatsapp": false
+        },
+        "actor": "Gemini-Agent"
+    },
+    {
+        "timestamp": "2026-03-25T12:39:55.065782",
+        "action_type": "claim_task",
+        "details": {
+            "task": "FILE_autonomous_test.txt_20260325123948.md",
+            "is_email": false,
+            "is_whatsapp": false
+        },
+        "actor": "Gemini-Agent"
+    },
+    {
+        "timestamp": "2026-03-25T12:39:55.140334",
+        "action_type": "claim_task",
+        "details": {
+            "task": "FILE_fully autonomus.md_20260325123949.md",
+            "is_email": false,
+            "is_whatsapp": false
+        },
+        "actor": "Gemini-Agent"
+    },
+    {
+        "timestamp": "2026-03-25T12:39:55.189135",
+        "action_type": "claim_task",
+        "details": {
+            "task": "FILE_last testing done.md_20260325123950.md",
+            "is_email": false,
+            "is_whatsapp": false
+        },
+        "actor": "Gemini-Agent"
+    },
+    {
+        "timestamp": "2026-03-25T12:39:55.259577",
+        "action_type": "claim_task",
+        "details": {
+            "task": "FILE_modular_test.txt_20260325123951.md",
+            "is_email": false,
+            "is_whatsapp": false
+        },
+        "actor": "Gemini-Agent"
+    },
+    {
+        "timestamp": "2026-03-25T12:39:55.314500",
+        "action_type": "claim_task",
+        "details": {
+            "task": "FILE_second last tasks.md_20260325123952.md",
+            "is_email": false,
+            "is_whatsapp": false
+        },
+        "actor": "Gemini-Agent"
+    },
+    {
+        "timestamp": "2026-03-25T12:39:55.437658",
+        "action_type": "claim_task",
+        "details": {
+            "task": "FILE_test_invoice.txt_20260325123953.md",
+            "is_email": false,
+            "is_whatsapp": false
+        },
+        "actor": "Gemini-Agent"
+    },
+    {
+        "timestamp": "2026-03-25T12:43:19.233498",
+        "action_type": "claim_task",
+        "details": {
+            "task": "APPROVE_POST_PROD_RETRY.md",
+            "is_email": false,
+            "is_whatsapp": false
+        },
+        "actor": "Gemini-Agent"
+    },
+    {
+        "timestamp": "2026-03-25T13:01:18.039472",
+        "action_type": "claim_task",
+        "details": {
+            "task": "FILE_autonomous_test.txt_20260325130110.md",
+            "is_email": false,
+            "is_whatsapp": false
+        },
+        "actor": "Gemini-Agent"
+    },
+    {
+        "timestamp": "2026-03-25T13:01:18.052893",
+        "action_type": "claim_task",
+        "details": {
+            "task": "FILE_fully autonomus.md_20260325130111.md",
+            "is_email": false,
+            "is_whatsapp": false
+        },
+        "actor": "Gemini-Agent"
+    },
+    {
+        "timestamp": "2026-03-25T13:01:18.102503",
+        "action_type": "claim_task",
+        "details": {
+            "task": "FILE_last testing done.md_20260325130112.md",
+            "is_email": false,
+            "is_whatsapp": false
+        },
+        "actor": "Gemini-Agent"
+    },
+    {
+        "timestamp": "2026-03-25T13:01:18.149844",
+        "action_type": "claim_task",
+        "details": {
+            "task": "FILE_modular_test.txt_20260325130113.md",
+            "is_email": false,
+            "is_whatsapp": false
+        },
+        "actor": "Gemini-Agent"
+    },
+    {
+        "timestamp": "2026-03-25T13:01:18.197363",
+        "action_type": "claim_task",
+        "details": {
+            "task": "FILE_second last tasks.md_20260325130115.md",
+            "is_email": false,
+            "is_whatsapp": false
+        },
+        "actor": "Gemini-Agent"
+    },
+    {
+        "timestamp": "2026-03-25T13:01:18.237431",
+        "action_type": "claim_task",
+        "details": {
+            "task": "FILE_test_invoice.txt_20260325130116.md",
+            "is_email": false,
+            "is_whatsapp": false
+        },
+        "actor": "Gemini-Agent"
+    },
+    {
+        "timestamp": "2026-03-25T13:01:18.278664",
+        "action_type": "claim_task",
+        "details": {
+            "task": "FILE_test_task_002.txt_20260325130117.md",
+            "is_email": false,
+            "is_whatsapp": false
+        },
+        "actor": "Gemini-Agent"
+    },
+    {
+        "timestamp": "2026-03-25T13:01:18.320527",
+        "action_type": "claim_task",
+        "details": {
+            "task": "FILE_test_task_003.txt_20260325130118.md",
+            "is_email": false,
+            "is_whatsapp": false
+        },
+        "actor": "Gemini-Agent"
+    },
+    {
+        "timestamp": "2026-03-25T13:02:46.668586",
+        "action_type": "claim_task",
+        "details": {
+            "task": "EMAIL_19d1decb7ba2ea27_20260324133223.md",
+            "is_email": true,
+            "is_whatsapp": false
+        },
+        "actor": "Gemini-Agent"
+    },
+    {
+        "timestamp": "2026-03-25T13:06:18.294010",
+        "action_type": "claim_task",
+        "details": {
+            "task": "EMAIL_19d2404cbd4e5c7d_20260325130615.md",
+            "is_email": true,
+            "is_whatsapp": false
+        },
+        "actor": "Gemini-Agent"
+    }
+]{"timestamp": "2026-03-25T12:23:55.801408+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:24:21.645375+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:24:39.221671+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:25:00.092670+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:25:15.549785+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:25:32.009885+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:25:48.212398+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:26:04.285868+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:26:25.287496+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:26:40.669689+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:26:57.221978+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:27:12.534008+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:27:28.370641+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:27:43.346529+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:28:00.197330+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:28:16.527813+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:28:32.901321+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:28:48.587986+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:29:04.524222+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:29:20.377617+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:29:35.849694+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:29:51.661272+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:30:08.897222+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:30:23.983630+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:30:38.927260+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:30:55.269604+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:31:14.868191+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:31:37.358313+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:31:59.708726+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:32:21.811466+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:32:40.022345+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:33:04.686898+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:33:29.279653+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:33:52.995948+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:34:16.238436+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:34:39.701863+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:35:02.538657+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:35:26.626374+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:35:49.555872+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:36:13.067851+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:36:36.385668+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:37:03.682702+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:37:26.368917+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:37:51.590163+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:38:17.250158+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:38:41.084755+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:39:07.297915+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:39:30.944200+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:39:46.102227+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:40:02.742533+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:40:24.716221+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:40:40.339654+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:40:55.273399+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:41:12.018241+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:41:29.575816+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:41:48.416009+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:42:10.854901+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:42:33.616062+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:42:57.153299+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:43:22.200489+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:43:43.620706+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:43:58.896294+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:44:15.217863+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:44:39.100287+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:45:03.006901+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:45:27.435801+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:45:56.646695+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:46:20.731341+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:46:44.433826+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:47:09.480722+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:47:31.081973+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:47:55.362919+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:48:19.772623+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:48:42.849431+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:49:05.568681+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:49:31.477731+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:49:56.712136+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:50:12.273148+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:50:32.455501+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:50:59.008789+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:51:22.882081+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:51:43.070188+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:52:07.120119+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:52:31.299127+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:52:47.627649+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:53:03.779241+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:53:20.343714+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:53:46.006405+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:54:11.967987+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:54:28.569497+00:00", "action_type": "whatsapp_draft_created", "actor": "cloud", "target": "APPROVE_REPLY_WHATSAPP_20260325125428.md", "parameters": {"recipient": "Mine(You)", "contact": "Mine(You)"}, "approval_status": "auto", "approved_by": "system", "result": "success"}
+{"timestamp": "2026-03-25T12:54:36.270918+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:54:59.993922+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:55:24.596644+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:55:31.482222+00:00", "action_type": "whatsapp_draft_created", "actor": "cloud", "target": "APPROVE_REPLY_WHATSAPP_20260325125531.md", "parameters": {"recipient": "Mine(You)", "contact": "Mine(You)"}, "approval_status": "auto", "approved_by": "system", "result": "success"}
+{"timestamp": "2026-03-25T12:55:43.091815+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:56:05.006616+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:56:30.205888+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:56:55.434870+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:57:20.145152+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:57:44.299950+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:58:07.343172+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:58:22.550048+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:58:39.152560+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:58:55.153781+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:58:56.698277+00:00", "action_type": "whatsapp_sent", "actor": "local", "target": "APPROVE_REPLY_WHATSAPP_20260325125428.md", "parameters": {"recipient": "Mine(You)", "dry_run": true}, "approval_status": "approved", "approved_by": "human", "result": "success"}
+{"timestamp": "2026-03-25T12:59:13.418478+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:59:29.789808+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T12:59:46.764211+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:00:04.631789+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:00:26.109128+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:00:31.626696+00:00", "action_type": "whatsapp_draft_created", "actor": "cloud", "target": "APPROVE_REPLY_WHATSAPP_20260325130031.md", "parameters": {"recipient": "Mine(You)", "contact": "Mine(You)"}, "approval_status": "auto", "approved_by": "system", "result": "success"}
+{"timestamp": "2026-03-25T13:00:46.314757+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:01:03.229465+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:01:25.672507+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:01:43.260764+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:02:01.627959+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:02:18.308025+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:02:33.785440+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:02:50.952775+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:03:07.543465+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:03:23.342118+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:03:40.493473+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:04:03.277570+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:04:25.849436+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:04:48.878173+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:05:05.762650+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:05:24.465391+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:05:47.152661+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:06:12.406583+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:06:28.169960+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:06:44.150813+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:06:59.718035+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:07:15.962528+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:07:32.713188+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:07:49.114942+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:08:10.988086+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:08:26.435319+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:08:43.346554+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:08:58.580197+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:09:15.356925+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:09:32.928564+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:09:50.532914+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:10:08.148013+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:10:23.356213+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:10:39.336826+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:10:56.368309+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:11:12.113988+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:11:28.894534+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:11:44.964580+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:12:01.245070+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:12:17.789110+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:12:34.573291+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:12:56.902233+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:13:13.071356+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:13:30.084705+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:13:45.515808+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:14:07.529053+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:14:25.204923+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:14:41.753756+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:14:58.747297+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:15:16.975765+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:15:35.062547+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:15:51.651262+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:16:08.623669+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:16:25.227207+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:16:41.996305+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:16:58.178101+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:17:15.898148+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:17:32.897948+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:17:49.542202+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:18:05.648343+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:18:23.295989+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:18:39.440777+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:18:55.961277+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:19:11.646701+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:19:28.404895+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:19:45.575367+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:20:01.138929+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:20:17.877942+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:20:34.604774+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:20:51.252102+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:21:07.741833+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:21:24.399017+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:21:40.395848+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:21:56.128452+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:22:13.621057+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:22:28.877983+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:22:46.039626+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:23:01.683370+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:23:58.982633+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:24:17.093228+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:24:32.120356+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:24:46.952413+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:25:01.985214+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:25:16.947803+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:25:31.959170+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:25:47.241558+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:26:02.643026+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:26:18.157423+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:26:33.854607+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:26:49.534234+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:27:04.882245+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:27:20.549764+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:27:35.856763+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:27:51.284414+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:28:06.590315+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:28:22.168824+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:28:37.509561+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:28:52.939508+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:29:08.982700+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:29:24.239639+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:29:39.559758+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:29:54.950829+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:30:11.206528+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:30:26.315890+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:30:41.699584+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:30:57.225541+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:31:12.681329+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:31:28.176267+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:31:43.570890+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:31:58.879851+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:32:14.302255+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:32:29.614079+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:32:45.362041+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:33:00.681573+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:33:16.976294+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:33:32.342193+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:33:48.156752+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:34:03.564672+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:34:18.998122+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:34:34.356352+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:34:50.059192+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:35:05.540646+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:35:21.056700+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:35:36.726101+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:35:52.996666+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:36:08.388747+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:36:23.830823+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:36:39.223439+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:36:54.566871+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:37:10.055798+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:37:25.562279+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:37:40.851942+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:37:56.410806+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:38:11.656985+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:38:28.022348+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:38:43.371527+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:38:58.754956+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T13:39:14.554932+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:08:32.830200+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:08:58.513887+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:09:14.388400+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:09:15.363582+00:00", "action_type": "whatsapp_draft_created", "actor": "cloud", "target": "APPROVE_REPLY_WHATSAPP_20260325140915.md", "parameters": {"recipient": "Mine(You)", "contact": "Mine(You)"}, "approval_status": "auto", "approved_by": "system", "result": "success"}
+{"timestamp": "2026-03-25T14:09:29.157823+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:09:46.814503+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:10:01.390392+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:10:16.682615+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:10:31.943023+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:10:47.835457+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:11:05.769492+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:11:26.823293+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:11:47.453940+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:12:02.989180+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:12:17.611008+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:12:32.803924+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:12:52.177158+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:13:12.065074+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:13:32.385518+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:13:52.504181+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:14:10.063699+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:14:29.618580+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:14:52.084569+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:15:15.390228+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:15:35.844964+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:15:55.876701+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:16:15.407156+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:16:35.994330+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:16:56.789864+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:17:17.125271+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:17:37.515952+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:17:57.613190+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:17:59.786671+00:00", "action_type": "whatsapp_sent", "actor": "local", "target": "APPROVE_REPLY_WHATSAPP_20260325125531.md", "parameters": {"recipient": "Mine(You)", "dry_run": true}, "approval_status": "approved", "approved_by": "human", "result": "success"}
+{"timestamp": "2026-03-25T14:18:20.223359+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:18:40.363297+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:19:00.581637+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:19:21.079068+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:19:23.173314+00:00", "action_type": "whatsapp_sent", "actor": "local", "target": "APPROVE_REPLY_WHATSAPP_20260325140915.md", "parameters": {"recipient": "Mine(You)", "dry_run": true}, "approval_status": "approved", "approved_by": "human", "result": "success"}
+{"timestamp": "2026-03-25T14:19:43.797643+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:20:03.998169+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:20:06.054278+00:00", "action_type": "whatsapp_sent", "actor": "local", "target": "APPROVE_REPLY_WHATSAPP_20260325130031.md", "parameters": {"recipient": "Mine(You)", "dry_run": true}, "approval_status": "approved", "approved_by": "human", "result": "success"}
+{"timestamp": "2026-03-25T14:20:25.947601+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:20:46.481978+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:21:06.733914+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:21:26.959009+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:21:46.986428+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:22:07.323761+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:22:27.682252+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:22:47.805556+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:23:07.552660+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:23:24.286275+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:23:45.127647+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:24:05.952741+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:24:27.366175+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:24:47.645264+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:25:08.130007+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:25:28.188832+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:25:48.296348+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:26:08.619022+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:26:29.037028+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:26:49.332747+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:27:09.750384+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:27:30.449627+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:27:50.887115+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:28:11.459317+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:28:31.501937+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:28:52.313094+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:29:12.616458+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:29:33.273019+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:29:52.992049+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:30:12.599668+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:30:33.266750+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:30:53.817687+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:31:14.249344+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:31:35.304866+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:31:55.975294+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:32:15.560232+00:00", "action_type": "whatsapp_draft_created", "actor": "cloud", "target": "APPROVE_REPLY_WHATSAPP_20260325143215.md", "parameters": {"recipient": "Mine(You)", "contact": "Mine(You)"}, "approval_status": "auto", "approved_by": "system", "result": "success"}
+{"timestamp": "2026-03-25T14:32:16.434598+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:32:26.784221+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:32:47.475639+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:33:07.828288+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:33:27.770368+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:33:50.971778+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:34:13.387439+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:34:36.108818+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:34:59.590571+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:35:22.246137+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:35:44.759014+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:36:07.406070+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:36:27.678602+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:36:29.802407+00:00", "action_type": "whatsapp_sent", "actor": "local", "target": "APPROVE_REPLY_WHATSAPP_20260325143215.md", "parameters": {"recipient": "Mine(You)", "dry_run": true}, "approval_status": "approved", "approved_by": "human", "result": "success"}
+{"timestamp": "2026-03-25T14:36:50.260753+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:37:10.316923+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:37:31.025642+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:37:50.998263+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:38:10.890888+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:38:31.349887+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:38:50.935711+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:39:11.979836+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:39:32.379108+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:39:51.988948+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:40:12.515609+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:40:33.305756+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:40:53.539243+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:41:13.902920+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:41:34.913083+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:41:56.660144+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:42:18.573247+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:42:39.994820+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:43:01.660260+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:43:17.858801+00:00", "action_type": "whatsapp_draft_created", "actor": "cloud", "target": "APPROVE_REPLY_WHATSAPP_20260325144317.md", "parameters": {"recipient": "Mine(You)", "contact": "Mine(You)"}, "approval_status": "auto", "approved_by": "system", "result": "success"}
+{"timestamp": "2026-03-25T14:43:18.388132+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:43:28.717834+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:43:49.758107+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:44:10.153095+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:44:30.190162+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:44:32.261468+00:00", "action_type": "whatsapp_sent", "actor": "local", "target": "APPROVE_REPLY_WHATSAPP_20260325144317.md", "parameters": {"recipient": "Mine(You)", "dry_run": true}, "approval_status": "approved", "approved_by": "human", "result": "success"}
+{"timestamp": "2026-03-25T14:44:52.885995+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:45:12.338453+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:45:32.982990+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:45:53.954802+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:46:13.910540+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:46:34.039371+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:46:52.184808+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:47:17.885454+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:47:39.840452+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:48:00.485989+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:48:21.226909+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:48:42.412478+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:49:02.902940+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:49:20.146901+00:00", "action_type": "whatsapp_draft_created", "actor": "cloud", "target": "APPROVE_REPLY_WHATSAPP_20260325144920.md", "parameters": {"recipient": "Mine(You)", "contact": "Mine(You)"}, "approval_status": "auto", "approved_by": "system", "result": "success"}
+{"timestamp": "2026-03-25T14:49:23.183010+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:49:43.453350+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:50:04.155769+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:50:24.111139+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:50:44.372849+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:50:46.512948+00:00", "action_type": "whatsapp_sent", "actor": "local", "target": "APPROVE_REPLY_WHATSAPP_20260325144920.md", "parameters": {"recipient": "Mine(You)", "dry_run": false}, "approval_status": "approved", "approved_by": "human", "result": "success"}
+{"timestamp": "2026-03-25T14:51:06.928336+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:51:25.170788+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:51:42.221588+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:52:02.355303+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:52:22.733477+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:52:43.424447+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:52:52.167874+00:00", "action_type": "whatsapp_draft_created", "actor": "cloud", "target": "APPROVE_REPLY_WHATSAPP_20260325145252.md", "parameters": {"recipient": "Mine(You)", "contact": "Mine(You)"}, "approval_status": "auto", "approved_by": "system", "result": "success"}
+{"timestamp": "2026-03-25T14:53:03.061109+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:53:23.741945+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:53:44.965762+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:54:05.261712+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:54:25.497204+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:54:45.859069+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:55:05.903294+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:55:25.357418+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:55:45.905389+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:56:06.326544+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:56:26.479290+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:56:47.834517+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:57:07.808588+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:57:28.218762+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:57:49.288440+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:58:09.779016+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:58:29.158576+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:58:49.745109+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:59:08.972605+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:59:30.115482+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T14:59:50.618237+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T15:00:11.267909+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T15:00:31.169169+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T15:00:50.779132+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T15:00:53.055999+00:00", "action_type": "whatsapp_draft_created", "actor": "cloud", "target": "APPROVE_REPLY_WHATSAPP_20260325150053.md", "parameters": {"recipient": "Mine(You)", "contact": "Mine(You)"}, "approval_status": "auto", "approved_by": "system", "result": "success"}
+{"timestamp": "2026-03-25T15:01:12.782299+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T15:01:36.362015+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T15:01:54.105541+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T15:02:14.514144+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T15:02:34.983328+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T15:02:55.140061+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T15:02:55.194008+00:00", "action_type": "whatsapp_draft_created", "actor": "cloud", "target": "APPROVE_REPLY_WHATSAPP_20260325150255.md", "parameters": {"recipient": "Mine(You)", "contact": "Mine(You)"}, "approval_status": "auto", "approved_by": "system", "result": "success"}
+{"timestamp": "2026-03-25T15:03:15.851729+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T15:03:36.411822+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T15:03:56.791602+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T15:04:17.123812+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T15:04:19.195033+00:00", "action_type": "whatsapp_sent", "actor": "local", "target": "APPROVE_REPLY_WHATSAPP_20260325150255.md", "parameters": {"recipient": "Mine(You)", "dry_run": false}, "approval_status": "approved", "approved_by": "human", "result": "success"}
+{"timestamp": "2026-03-25T15:04:39.528130+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T15:05:02.309038+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T15:05:25.565204+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T15:05:48.426681+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T15:06:08.495672+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T15:06:29.119311+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T15:06:50.471152+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_PROD_TEST.md", "parameters": {"error": "approval missing 'target' or 'post_content'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T15:13:31.566190+00:00", "action_type": "whatsapp_draft_created", "actor": "cloud", "target": "APPROVE_REPLY_WHATSAPP_2026-03-25_20-13.md", "parameters": {"recipient": "Mine(You)", "contact": "Mine(You)"}, "approval_status": "auto", "approved_by": "system", "result": "success"}
+{"timestamp": "2026-03-25T15:14:09.688100+00:00", "action_type": "whatsapp_sent", "actor": "local", "target": "APPROVE_REPLY_WHATSAPP_2026-03-25_20-13.md", "parameters": {"recipient": "Mine(You)", "dry_run": false}, "approval_status": "approved", "approved_by": "human", "result": "success"}
+{"timestamp": "2026-03-25T15:20:04.139852+00:00", "action_type": "whatsapp_draft_created", "actor": "cloud", "target": "APPROVE_REPLY_WHATSAPP_2026-03-25_20-20.md", "parameters": {"recipient": "Mine(You)", "contact": "Mine(You)"}, "approval_status": "auto", "approved_by": "system", "result": "success"}
+{"timestamp": "2026-03-25T15:20:30.026103+00:00", "action_type": "whatsapp_sent", "actor": "local", "target": "APPROVE_REPLY_WHATSAPP_2026-03-25_20-20.md", "parameters": {"recipient": "Mine(You)", "dry_run": false}, "approval_status": "approved", "approved_by": "human", "result": "success"}
+{"timestamp": "2026-03-25T15:22:35.802667+00:00", "action_type": "whatsapp_draft_created", "actor": "cloud", "target": "APPROVE_REPLY_WHATSAPP_2026-03-25_20-22.md", "parameters": {"recipient": "Mine(You)", "contact": "Mine(You)"}, "approval_status": "auto", "approved_by": "system", "result": "success"}
+{"timestamp": "2026-03-25T15:22:40.327914+00:00", "action_type": "whatsapp_sent", "actor": "local", "target": "APPROVE_REPLY_WHATSAPP_2026-03-25_20-22.md", "parameters": {"recipient": "Mine(You)", "dry_run": false}, "approval_status": "approved", "approved_by": "human", "result": "success"}
+{"timestamp": "2026-03-25T15:47:51.626494+00:00", "action_type": "social_draft_created", "actor": "cloud", "target": "APPROVE_POST_LINKEDIN_20260325_20260325154751.md", "parameters": {"target": "linkedin"}, "approval_status": "auto", "approved_by": "system", "result": "success"}
+{"timestamp": "2026-03-25T15:49:26.750517+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_LINKEDIN_20260325_20260325154751.md", "parameters": {"target": "linkedin"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T15:49:37.312095+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_LINKEDIN_20260325_20260325154751.md", "parameters": {"target": "linkedin"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T15:49:47.830126+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_LINKEDIN_20260325_20260325154751.md", "parameters": {"target": "linkedin"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T15:49:58.312988+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_LINKEDIN_20260325_20260325154751.md", "parameters": {"target": "linkedin"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T15:50:08.833409+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_LINKEDIN_20260325_20260325154751.md", "parameters": {"target": "linkedin"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T15:50:19.342411+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_LINKEDIN_20260325_20260325154751.md", "parameters": {"target": "linkedin"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T15:50:29.887117+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_LINKEDIN_20260325_20260325154751.md", "parameters": {"target": "linkedin"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T15:50:40.410815+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_LINKEDIN_20260325_20260325154751.md", "parameters": {"target": "linkedin"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T15:50:50.990526+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_LINKEDIN_20260325_20260325154751.md", "parameters": {"target": "linkedin"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T15:51:01.429328+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_LINKEDIN_20260325_20260325154751.md", "parameters": {"target": "linkedin"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T15:51:12.063473+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_LINKEDIN_20260325_20260325154751.md", "parameters": {"target": "linkedin"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T15:51:22.652113+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_LINKEDIN_20260325_20260325154751.md", "parameters": {"target": "linkedin"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T15:51:55.838392+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_LINKEDIN_20260325_20260325154751.md", "parameters": {"target": "linkedin"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T15:52:25.371407+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_LINKEDIN_20260325_20260325154751.md", "parameters": {"target": "linkedin"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T15:52:54.876714+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_LINKEDIN_20260325_20260325154751.md", "parameters": {"target": "linkedin"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T15:53:54.675104+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_LINKEDIN_20260325_20260325154751.md", "parameters": {"target": "linkedin"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+{"timestamp": "2026-03-25T15:55:31.107161+00:00", "action_type": "social_post_published", "actor": "local", "target": "APPROVE_POST_LINKEDIN_20260325_20260325154751.md", "parameters": {"target": "linkedin", "dry_run": false}, "approval_status": "approved", "approved_by": "human", "result": "success"}
+{"timestamp": "2026-03-25T16:06:13.467983+00:00", "action_type": "social_draft_created", "actor": "cloud", "target": "APPROVE_POST_LINKEDIN_20260325_20260325160613.md", "parameters": {"target": "linkedin"}, "approval_status": "auto", "approved_by": "system", "result": "success"}
+{"timestamp": "2026-03-25T16:08:09.559862+00:00", "action_type": "social_post_published", "actor": "local", "target": "APPROVE_POST_LINKEDIN_20260325_20260325160613.md", "parameters": {"target": "linkedin", "dry_run": false}, "approval_status": "approved", "approved_by": "human", "result": "success"}
+{"timestamp": "2026-03-25T16:37:12.053825+00:00", "action_type": "email_draft_created", "actor": "cloud", "target": "APPROVE_REPLY_EMAIL_19d252c8_20260325163712.md", "parameters": {"msg_id": "19d252c87dca9847", "recipient": "ibex via LinkedIn <newsletters-noreply@linkedin.com>"}, "approval_status": "auto", "approved_by": "system", "result": "success"}
+{"timestamp": "2026-03-25T16:37:33.463245+00:00", "action_type": "email_draft_created", "actor": "cloud", "target": "APPROVE_REPLY_EMAIL_19d2549f_20260325163733.md", "parameters": {"msg_id": "19d2549fd7fe5b37", "recipient": "Senior-Software Engineer <no-reply@propeers.in>"}, "approval_status": "auto", "approved_by": "system", "result": "success"}
+{"timestamp": "2026-03-25T16:37:54.451434+00:00", "action_type": "email_draft_created", "actor": "cloud", "target": "APPROVE_REPLY_EMAIL_19d2583f_20260325163754.md", "parameters": {"msg_id": "19d2583f2e0683ec", "recipient": "Harvard Business School Online <hbsonline@email.online.hbs.edu>"}, "approval_status": "auto", "approved_by": "system", "result": "success"}
+{"timestamp": "2026-03-25T16:38:16.091985+00:00", "action_type": "email_draft_created", "actor": "cloud", "target": "APPROVE_REPLY_EMAIL_19d25874_20260325163816.md", "parameters": {"msg_id": "19d25874b45a1705", "recipient": "n8n Security <security@info.n8n.io>"}, "approval_status": "auto", "approved_by": "system", "result": "success"}
+{"timestamp": "2026-03-25T16:38:37.313054+00:00", "action_type": "email_draft_created", "actor": "cloud", "target": "APPROVE_REPLY_EMAIL_19d25a68_20260325163837.md", "parameters": {"msg_id": "19d25a6830219234", "recipient": "ZipRecruiter <alerts@ziprecruiter.com>"}, "approval_status": "auto", "approved_by": "system", "result": "success"}
+{"timestamp": "2026-03-25T16:38:58.122843+00:00", "action_type": "email_draft_created", "actor": "cloud", "target": "APPROVE_REPLY_EMAIL_19d25a82_20260325163858.md", "parameters": {"msg_id": "19d25a82aba8dae9", "recipient": "IconScout <mail@iconscout.com>"}, "approval_status": "auto", "approved_by": "system", "result": "success"}
+{"timestamp": "2026-03-25T16:39:48.840885+00:00", "action_type": "email_draft_created", "actor": "cloud", "target": "APPROVE_REPLY_EMAIL_19cffd57_20260325163948.md", "parameters": {"msg_id": "19cffd5700e1260b", "recipient": "CodeSandbox <hello@codesandbox.io>"}, "approval_status": "auto", "approved_by": "system", "result": "success"}
+{"timestamp": "2026-03-25T16:40:08.742026+00:00", "action_type": "email_draft_created", "actor": "cloud", "target": "APPROVE_REPLY_EMAIL_19d003c1_20260325164008.md", "parameters": {"msg_id": "19d003c106dd17d2", "recipient": "Innovista via LinkedIn <newsletters-noreply@linkedin.com>"}, "approval_status": "auto", "approved_by": "system", "result": "success"}
+{"timestamp": "2026-03-25T16:40:28.802374+00:00", "action_type": "email_draft_created", "actor": "cloud", "target": "APPROVE_REPLY_EMAIL_19d00a32_20260325164028.md", "parameters": {"msg_id": "19d00a3231e79d97", "recipient": "Google Gemini <google-gemini-noreply@google.com>"}, "approval_status": "auto", "approved_by": "system", "result": "success"}
+{"timestamp": "2026-03-25T16:40:49.003051+00:00", "action_type": "email_draft_created", "actor": "cloud", "target": "APPROVE_REPLY_EMAIL_19d0126a_20260325164048.md", "parameters": {"msg_id": "19d0126ac641b2ae", "recipient": "Bart at n8n <bart@news.n8n.io>"}, "approval_status": "auto", "approved_by": "system", "result": "success"}
+{"timestamp": "2026-03-25T16:41:26.193129+00:00", "action_type": "email_draft_created", "actor": "cloud", "target": "APPROVE_REPLY_EMAIL_19d02a7c_20260325164126.md", "parameters": {"msg_id": "19d02a7c29f35953", "recipient": "Vercel <notifications@vercel.com>"}, "approval_status": "auto", "approved_by": "system", "result": "success"}
+{"timestamp": "2026-03-25T16:41:46.356517+00:00", "action_type": "email_draft_created", "actor": "cloud", "target": "APPROVE_REPLY_EMAIL_19d02f93_20260325164146.md", "parameters": {"msg_id": "19d02f93c33c2ed1", "recipient": "GitHub <noreply@github.com>"}, "approval_status": "auto", "approved_by": "system", "result": "success"}
+{"timestamp": "2026-03-25T16:42:24.436970+00:00", "action_type": "email_draft_created", "actor": "cloud", "target": "APPROVE_REPLY_EMAIL_19d06d57_20260325164224.md", "parameters": {"msg_id": "19d06d5797ae2cb8", "recipient": "Crossover via LinkedIn <newsletters-noreply@linkedin.com>"}, "approval_status": "auto", "approved_by": "system", "result": "success"}
+{"timestamp": "2026-03-25T16:45:44.642019+00:00", "action_type": "email_draft_created", "actor": "cloud", "target": "APPROVE_REPLY_EMAIL_19d25e15_20260325164544.md", "parameters": {"msg_id": "19d25e15ada48ea8", "recipient": "Muhammad Ismail <musafirbaltistani786@gmail.com>"}, "approval_status": "auto", "approved_by": "system", "result": "success"}
+{"timestamp": "2026-03-25T16:45:58.309875+00:00", "action_type": "email_sent", "actor": "local", "target": "APPROVE_REPLY_EMAIL_19d25e15_20260325164544.md", "parameters": {"recipient": "Muhammad Ismail <musafirbaltistani786@gmail.com>", "subject": "RE: Testing", "dry_run": false}, "approval_status": "approved", "approved_by": "human", "result": "success"}

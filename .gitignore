@@ -1,0 +1,32 @@
+# Secrets & credentials
+.env
+.env.cloud
+.env.local
+.env.test
+credentials.json
+token.json
+
+# Sessions
+linkedin_session/
+whatsapp_session/
+
+# Processed state files
+processed_emails.txt
+processed_chats.txt
+processed_linkedin_posts.txt
+processed_linkedin_comments.txt
+processed_linkedin_profiles.txt
+rate_limit_state.json
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+desktop.ini

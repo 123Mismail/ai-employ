@@ -1,0 +1,28 @@
+version: '3'
+
+tasks:
+  spec:
+    cmds:
+      - bash .specify/scripts/bash/create-new-feature.sh "{{.CLI_ARGS}}"
+    desc: Create a new feature specification.
+
+  plan:
+    cmds:
+      - bash .specify/scripts/bash/setup-plan.sh
+    desc: Create a technical plan for the current feature.
+
+  tasks:
+    cmds:
+      - echo "Break plan into tasks using ai/prompts/tasks.prompt.md"
+    desc: Breakdown plan into actionable tasks.
+
+  implement:
+    cmds:
+      - echo "Implement tasks using ai/prompts/implement.prompt.md"
+    desc: Execute the implementation tasks.
+
+  init:
+    cmds:
+      - npm install
+      - bash .specify/scripts/bash/check-prerequisites.sh
+    desc: Initialize the project and check prerequisites.

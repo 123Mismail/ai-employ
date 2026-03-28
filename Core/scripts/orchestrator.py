@@ -75,7 +75,16 @@ class VaultOrchestrator(FileSystemEventHandler):
         target_path = Path(event.dest_path) if moved else Path(event.src_path)
         
         # 0. PERCEPTION TRIGGER: New file in Needs_Action
+        # Skip task types handled by platinum agents (email, whatsapp, odoo_invoice, linkedin)
+        PLATINUM_TYPES = ("email", "whatsapp", "odoo_invoice", "linkedin", "social_post", "proactive_task")
         if "Needs_Action" in str(target_path) and target_path.suffix == ".md":
+            try:
+                content = target_path.read_text(encoding="utf-8")
+                if any(f"type: {t}" in content for t in PLATINUM_TYPES):
+                    logger.debug(f"Skipping platinum task: {target_path.name}")
+                    return
+            except Exception:
+                pass
             logger.info(f"👁️ Perception Triggered: {target_path.name}")
             time.sleep(1)
             self.processor.claim_task(target_path)

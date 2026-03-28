@@ -21,7 +21,7 @@ module.exports = {
       env: {
         PYTHONUNBUFFERED: "1",
         VAULT_PATH: "/home/opc/ai-employ/AI_Employee_Vault",
-        LINKEDIN_POST_HOUR: "9",
+        LINKEDIN_POST_HOUR: "4",
         LINKEDIN_POST_MINUTE: "0",
         LINKEDIN_CHECK_INTERVAL: "1800",
       },

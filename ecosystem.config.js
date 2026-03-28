@@ -74,6 +74,20 @@ module.exports = {
       }
     },
     {
+      name: "linkedin-scheduler",
+      script: "uv",
+      args: "run python -m PlatinumTier.scripts.linkedin_scheduler",
+      interpreter: "none",
+      autorestart: true,
+      windowsHide: true,
+      env: {
+        VAULT_PATH: "AI_Employee_Vault",
+        LINKEDIN_POST_HOUR: "9",
+        LINKEDIN_POST_MINUTE: "0",
+        LINKEDIN_CHECK_INTERVAL: "1800"
+      }
+    },
+    {
       name: "platinum-local-agent",
       script: "uv",
       args: "run python -m PlatinumTier.scripts.local_agent",

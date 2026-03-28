@@ -2,19 +2,32 @@ module.exports = {
   apps: [
     {
       name: "cloud-agent",
-      script: "/home/ubuntu/ai-employ/.venv/bin/python",
+      script: "/home/opc/ai-employ/.venv/bin/python",
       args: "-m PlatinumTier.scripts.cloud_agent",
-      cwd: "/home/ubuntu/ai-employ",
+      cwd: "/home/opc/ai-employ",
       env: {
         PYTHONUNBUFFERED: "1",
-        ENV_FILE: "/home/ubuntu/ai-employ/.env.cloud",
+        VAULT_PATH: "/home/opc/ai-employ/AI_Employee_Vault",
       },
       exec_mode: "fork",
       restart_delay: 5000,
       max_restarts: 10,
-      log_file: "/home/ubuntu/logs/cloud-agent.log",
-      error_file: "/home/ubuntu/logs/cloud-agent-error.log",
-      time: true,
+    },
+    {
+      name: "linkedin-scheduler",
+      script: "/home/opc/ai-employ/.venv/bin/python",
+      args: "-m PlatinumTier.scripts.linkedin_scheduler",
+      cwd: "/home/opc/ai-employ",
+      env: {
+        PYTHONUNBUFFERED: "1",
+        VAULT_PATH: "/home/opc/ai-employ/AI_Employee_Vault",
+        LINKEDIN_POST_HOUR: "9",
+        LINKEDIN_POST_MINUTE: "0",
+        LINKEDIN_CHECK_INTERVAL: "1800",
+      },
+      exec_mode: "fork",
+      restart_delay: 5000,
+      max_restarts: 10,
     },
   ],
 };

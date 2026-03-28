@@ -14,6 +14,20 @@ module.exports = {
       max_restarts: 10,
     },
     {
+      name: "gmail-watcher",
+      script: "/home/opc/ai-employ/.venv/bin/python",
+      args: "-m SilverTier.scripts.watchers.gmail",
+      cwd: "/home/opc/ai-employ",
+      env: {
+        PYTHONUNBUFFERED: "1",
+        VAULT_PATH: "/home/opc/ai-employ/AI_Employee_Vault",
+        GMAIL_QUERY: "subject:testing is:unread",
+      },
+      exec_mode: "fork",
+      restart_delay: 5000,
+      max_restarts: 10,
+    },
+    {
       name: "linkedin-scheduler",
       script: "/home/opc/ai-employ/.venv/bin/python",
       args: "-m PlatinumTier.scripts.linkedin_scheduler",

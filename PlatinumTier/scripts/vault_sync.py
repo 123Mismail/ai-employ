@@ -26,12 +26,22 @@ def pull_rebase(vault_path: Path, max_retries: int = 3) -> None:
     global _last_pull
     # Commit any local changes first to avoid "unstaged changes" error
     _commit_local_changes(vault_path)
+    # Abort any stuck rebase
+    try:
+        _run_git(["rebase", "--abort"], vault_path)
+    except subprocess.CalledProcessError:
+        pass
+    # Remove stuck rebase-merge dir if present
+    rebase_dir = vault_path / ".git" / "rebase-merge"
+    if rebase_dir.exists():
+        import shutil
+        shutil.rmtree(str(rebase_dir))
     delay = 2
     for attempt in range(max_retries):
         try:
-            _run_git(["pull", "--rebase", "origin", "main"], vault_path)
+            _run_git(["pull", "--no-rebase", "origin", "main"], vault_path)
             _last_pull = _now_iso()
-            logger.info("vault pull --rebase OK")
+            logger.info("vault pull OK")
             return
         except subprocess.CalledProcessError as e:
             logger.warning("pull --rebase failed (attempt %d): %s", attempt + 1, e.stderr.strip())

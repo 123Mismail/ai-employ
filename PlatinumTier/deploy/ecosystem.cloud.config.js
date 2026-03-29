@@ -22,6 +22,7 @@ module.exports = {
         PYTHONUNBUFFERED: "1",
         VAULT_PATH: "/home/opc/ai-employ/AI_Employee_Vault",
         GMAIL_QUERY: "subject:(testing OR invoice) is:unread",
+        GMAIL_POLL_INTERVAL: "60",
       },
       exec_mode: "fork",
       restart_delay: 5000,

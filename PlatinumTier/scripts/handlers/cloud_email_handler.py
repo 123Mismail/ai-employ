@@ -30,6 +30,12 @@ def handle(task_path: Path, vault_path: Path, openai_client) -> bool:
         # Draft reply with OpenAI
         draft = _draft_reply(openai_client, subject, body)
 
+        # Detect invoice request and create odoo_invoice task
+        invoice_data = _detect_invoice_request(openai_client, subject, body)
+        if invoice_data:
+            _create_invoice_task(vault_path, invoice_data, recipient)
+            logger.info("invoice task created for email from %s", recipient)
+
         # Write approval file
         expires = datetime.now(timezone.utc) + timedelta(hours=APPROVAL_EXPIRY_HOURS)
         ts = datetime.now(timezone.utc).strftime("%Y%m%d%H%M%S")
@@ -98,6 +104,50 @@ def _draft_reply(openai_client, subject: str, body: str) -> str:
         temperature=0.4,
     )
     return response.choices[0].message.content.strip()
+
+
+def _detect_invoice_request(openai_client, subject: str, body: str) -> dict | None:
+    """Use OpenAI to detect if email is requesting an invoice. Returns invoice data or None."""
+    if os.getenv("DRY_RUN", "false").lower() == "true":
+        return None
+    prompt = (
+        "Analyze this email and determine if the sender is requesting an invoice to be created.\n"
+        f"Subject: {subject}\nBody: {body}\n\n"
+        "If it IS an invoice request, reply with JSON only:\n"
+        '{"is_invoice": true, "client_name": "...", "amount": 0.0, "description": "..."}\n'
+        "If it is NOT an invoice request, reply with JSON only:\n"
+        '{"is_invoice": false}'
+    )
+    response = openai_client.chat.completions.create(
+        model=os.getenv("OPENAI_MODEL", "gpt-4o-mini"),
+        messages=[{"role": "user", "content": prompt}],
+        max_tokens=200,
+        temperature=0.1,
+    )
+    import json
+    try:
+        data = json.loads(response.choices[0].message.content.strip())
+        return data if data.get("is_invoice") else None
+    except Exception:
+        return None
+
+
+def _create_invoice_task(vault_path: Path, invoice_data: dict, sender_email: str) -> None:
+    """Write an odoo_invoice task file to Needs_Action/."""
+    import yaml
+    ts = datetime.now(timezone.utc).strftime("%Y%m%d%H%M%S")
+    filename = f"INVOICE_REQUEST_{ts}.md"
+    fm = {
+        "type": "odoo_invoice",
+        "status": "pending",
+        "odoo_partner_name": invoice_data.get("client_name", sender_email),
+        "odoo_amount": float(invoice_data.get("amount", 0.0)),
+        "odoo_description": invoice_data.get("description", "Service"),
+        "odoo_ref": f"INV-{ts}",
+        "source_email": sender_email,
+    }
+    content = f"---\n{yaml.dump(fm, default_flow_style=False, allow_unicode=True)}---\n\n{invoice_data.get('description', 'Invoice request from email')}\n"
+    (vault_path / "Needs_Action" / filename).write_text(content, encoding="utf-8")
 
 
 def _read_body(task_path: Path) -> str:

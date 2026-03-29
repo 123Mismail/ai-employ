@@ -46,7 +46,9 @@ def ensure_vault_structure(vault_path: Path) -> None:
 
 def _split_frontmatter(text: str) -> tuple[dict, str]:
     """Split '---\\n...\\n---\\n body' into (frontmatter_dict, body)."""
-    pattern = re.compile(r"^---\n(.*?)\n---\n?(.*)", re.DOTALL)
+    text = text.lstrip('\ufeff')  # strip BOM
+    text = text.replace('\r\n', '\n').replace('\r', '\n')  # normalise line endings
+    pattern = re.compile(r"^\s*---\s*\n(.*?)\n---\s*\n?(.*)", re.DOTALL)
     m = pattern.match(text)
     if not m:
         return {}, text
